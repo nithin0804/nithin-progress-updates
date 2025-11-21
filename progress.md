@@ -19,12 +19,12 @@ What I understood:
 - Introduction to AI agents
 - Basic setup and hands-on practice
 
-3.Github
+3. Github
 - GitHub setup done
 - Repository created
 - Files uploaded
 - PR created
 
 4. Next Planned Tasks
-Continue Google Learning Path lesson 4+
+Continue with Google Learning Path 
 Finish Kaggle program
